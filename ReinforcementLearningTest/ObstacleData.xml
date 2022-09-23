@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><Root>
+    <Obstacle ObstacleID="0" ObstacleType="Polygon">
+        <ObstacleParameter Clockwise="1" IsFinish="True"/>
+        <Vertex VertexNumber="4">
+            <VertexPoint VertexX="600.0" VertexY="221.0"/>
+            <VertexPoint VertexX="629.0" VertexY="274.0"/>
+            <VertexPoint VertexX="424.0" VertexY="273.0"/>
+            <VertexPoint VertexX="413.0" VertexY="228.0"/>
+        </Vertex>
+    </Obstacle>
+    <Obstacle ObstacleID="1" ObstacleType="Polygon">
+        <ObstacleParameter Clockwise="-1" IsFinish="True"/>
+        <Vertex VertexNumber="4">
+            <VertexPoint VertexX="447.0" VertexY="333.0"/>
+            <VertexPoint VertexX="442.0" VertexY="383.0"/>
+            <VertexPoint VertexX="611.0" VertexY="384.0"/>
+            <VertexPoint VertexX="601.0" VertexY="335.0"/>
+        </Vertex>
+    </Obstacle>
+    <Obstacle ObstacleID="2" ObstacleType="Polygon">
+        <ObstacleParameter Clockwise="-1" IsFinish="True"/>
+        <Vertex VertexNumber="4">
+            <VertexPoint VertexX="180.0" VertexY="686.0"/>
+            <VertexPoint VertexX="206.0" VertexY="702.0"/>
+            <VertexPoint VertexX="240.0" VertexY="685.0"/>
+            <VertexPoint VertexX="218.0" VertexY="658.0"/>
+        </Vertex>
+    </Obstacle>
+    <Obstacle ObstacleID="3" ObstacleType="Polygon">
+        <ObstacleParameter Clockwise="1" IsFinish="True"/>
+        <Vertex VertexNumber="4">
+            <VertexPoint VertexX="100.0" VertexY="634.0"/>
+            <VertexPoint VertexX="105.0" VertexY="597.0"/>
+            <VertexPoint VertexX="306.0" VertexY="601.0"/>
+            <VertexPoint VertexX="317.0" VertexY="640.0"/>
+        </Vertex>
+    </Obstacle>
+    <Obstacle ObstacleID="4" ObstacleType="Polygon">
+        <ObstacleParameter Clockwise="1" IsFinish="True"/>
+        <Vertex VertexNumber="4">
+            <VertexPoint VertexX="110.0" VertexY="523.0"/>
+            <VertexPoint VertexX="136.0" VertexY="498.0"/>
+            <VertexPoint VertexX="182.0" VertexY="562.0"/>
+            <VertexPoint VertexX="144.0" VertexY="567.0"/>
+        </Vertex>
+    </Obstacle>
+    <Obstacle ObstacleID="5" ObstacleType="Polygon">
+        <ObstacleParameter Clockwise="1" IsFinish="True"/>
+        <Vertex VertexNumber="4">
+            <VertexPoint VertexX="225.0" VertexY="556.0"/>
+            <VertexPoint VertexX="266.0" VertexY="501.0"/>
+            <VertexPoint VertexX="292.0" VertexY="526.0"/>
+            <VertexPoint VertexX="263.0" VertexY="564.0"/>
+        </Vertex>
+    </Obstacle>
+    <Obstacle ObstacleID="6" ObstacleType="Polygon">
+        <ObstacleParameter Clockwise="-1" IsFinish="True"/>
+        <Vertex VertexNumber="16">
+            <VertexPoint VertexX="454.0" VertexY="637.0"/>
+            <VertexPoint VertexX="507.0" VertexY="639.0"/>
+            <VertexPoint VertexX="509.0" VertexY="685.0"/>
+            <VertexPoint VertexX="548.0" VertexY="687.0"/>
+            <VertexPoint VertexX="562.0" VertexY="643.0"/>
+            <VertexPoint VertexX="633.0" VertexY="642.0"/>
+            <VertexPoint VertexX="634.0" VertexY="608.0"/>
+            <VertexPoint VertexX="562.0" VertexY="601.0"/>
+            <VertexPoint VertexX="568.0" VertexY="552.0"/>
+            <VertexPoint VertexX="614.0" VertexY="558.0"/>
+            <VertexPoint VertexX="617.0" VertexY="584.0"/>
+            <VertexPoint VertexX="646.0" VertexY="585.0"/>
+            <VertexPoint VertexX="649.0" VertexY="532.0"/>
+            <VertexPoint VertexX="534.0" VertexY="521.0"/>
+            <VertexPoint VertexX="523.0" VertexY="599.0"/>
+            <VertexPoint VertexX="454.0" VertexY="605.0"/>
+        </Vertex>
+    </Obstacle>
+    <Obstacle ObstacleID="7" ObstacleType="Polygon">
+        <ObstacleParameter Clockwise="1" IsFinish="True"/>
+        <Vertex VertexNumber="9">
+            <VertexPoint VertexX="1115.0" VertexY="699.0"/>
+            <VertexPoint VertexX="1086.0" VertexY="669.0"/>
+            <VertexPoint VertexX="1136.0" VertexY="623.0"/>
+            <VertexPoint VertexX="1141.0" VertexY="509.0"/>
+            <VertexPoint VertexX="1177.0" VertexY="503.0"/>
+            <VertexPoint VertexX="1177.0" VertexY="619.0"/>
+            <VertexPoint VertexX="1237.0" VertexY="673.0"/>
+            <VertexPoint VertexX="1205.0" VertexY="699.0"/>
+            <VertexPoint VertexX="1161.0" VertexY="654.0"/>
+        </Vertex>
+    </Obstacle>
+    <Obstacle ObstacleID="8" ObstacleType="Polygon">
+        <ObstacleParameter Clockwise="1" IsFinish="True"/>
+        <Vertex VertexNumber="13">
+            <VertexPoint VertexX="738.0" VertexY="688.0"/>
+            <VertexPoint VertexX="797.0" VertexY="536.0"/>
+            <VertexPoint VertexX="838.0" VertexY="536.0"/>
+            <VertexPoint VertexX="866.0" VertexY="611.0"/>
+            <VertexPoint VertexX="902.0" VertexY="528.0"/>
+            <VertexPoint VertexX="939.0" VertexY="532.0"/>
+            <VertexPoint VertexX="989.0" VertexY="688.0"/>
+            <VertexPoint VertexX="935.0" VertexY="692.0"/>
+            <VertexPoint VertexX="918.0" VertexY="596.0"/>
+            <VertexPoint VertexX="876.0" VertexY="658.0"/>
+            <VertexPoint VertexX="836.0" VertexY="657.0"/>
+            <VertexPoint VertexX="821.0" VertexY="584.0"/>
+            <VertexPoint VertexX="781.0" VertexY="694.0"/>
+        </Vertex>
+    </Obstacle>
+    <Obstacle ObstacleID="9" ObstacleType="Polygon">
+        <ObstacleParameter Clockwise="1" IsFinish="True"/>
+        <Vertex VertexNumber="22">
+            <VertexPoint VertexX="219.0" VertexY="361.0"/>
+            <VertexPoint VertexX="209.0" VertexY="379.0"/>
+            <VertexPoint VertexX="190.0" VertexY="388.0"/>
+            <VertexPoint VertexX="166.0" VertexY="387.0"/>
+            <VertexPoint VertexX="152.0" VertexY="375.0"/>
+            <VertexPoint VertexX="142.0" VertexY="357.0"/>
+            <VertexPoint VertexX="146.0" VertexY="335.0"/>
+            <VertexPoint VertexX="160.0" VertexY="311.0"/>
+            <VertexPoint VertexX="176.0" VertexY="293.0"/>
+            <VertexPoint VertexX="192.0" VertexY="269.0"/>
+            <VertexPoint VertexX="208.0" VertexY="241.0"/>
+            <VertexPoint VertexX="222.0" VertexY="210.0"/>
+            <VertexPoint VertexX="249.0" VertexY="232.0"/>
+            <VertexPoint VertexX="269.0" VertexY="258.0"/>
+            <VertexPoint VertexX="284.0" VertexY="280.0"/>
+            <VertexPoint VertexX="299.0" VertexY="314.0"/>
+            <VertexPoint VertexX="309.0" VertexY="355.0"/>
+            <VertexPoint VertexX="304.0" VertexY="383.0"/>
+            <VertexPoint VertexX="290.0" VertexY="402.0"/>
+            <VertexPoint VertexX="263.0" VertexY="403.0"/>
+            <VertexPoint VertexX="241.0" VertexY="397.0"/>
+            <VertexPoint VertexX="226.0" VertexY="381.0"/>
+        </Vertex>
+    </Obstacle>
+    <Obstacle ObstacleID="10" ObstacleType="Polygon">
+        <ObstacleParameter Clockwise="1" IsFinish="True"/>
+        <Vertex VertexNumber="6">
+            <VertexPoint VertexX="810.0" VertexY="412.0"/>
+            <VertexPoint VertexX="700.0" VertexY="404.0"/>
+            <VertexPoint VertexX="687.0" VertexY="209.0"/>
+            <VertexPoint VertexX="726.0" VertexY="247.0"/>
+            <VertexPoint VertexX="730.0" VertexY="370.0"/>
+            <VertexPoint VertexX="791.0" VertexY="372.0"/>
+        </Vertex>
+    </Obstacle>
+    <Obstacle ObstacleID="11" ObstacleType="Polygon">
+        <ObstacleParameter Clockwise="-1" IsFinish="True"/>
+        <Vertex VertexNumber="6">
+            <VertexPoint VertexX="830.0" VertexY="395.0"/>
+            <VertexPoint VertexX="832.0" VertexY="208.0"/>
+            <VertexPoint VertexX="722.0" VertexY="203.0"/>
+            <VertexPoint VertexX="736.0" VertexY="235.0"/>
+            <VertexPoint VertexX="800.0" VertexY="238.0"/>
+            <VertexPoint VertexX="798.0" VertexY="362.0"/>
+        </Vertex>
+    </Obstacle>
+    <Obstacle ObstacleID="12" ObstacleType="Polygon">
+        <ObstacleParameter Clockwise="1" IsFinish="True"/>
+        <Vertex VertexNumber="4">
+            <VertexPoint VertexX="903.0" VertexY="394.0"/>
+            <VertexPoint VertexX="903.0" VertexY="347.0"/>
+            <VertexPoint VertexX="1053.0" VertexY="349.0"/>
+            <VertexPoint VertexX="1055.0" VertexY="393.0"/>
+        </Vertex>
+    </Obstacle>
+    <Obstacle ObstacleID="13" ObstacleType="Polygon">
+        <ObstacleParameter Clockwise="1" IsFinish="True"/>
+        <Vertex VertexNumber="4">
+            <VertexPoint VertexX="887.0" VertexY="278.0"/>
+            <VertexPoint VertexX="884.0" VertexY="232.0"/>
+            <VertexPoint VertexX="1058.0" VertexY="221.0"/>
+            <VertexPoint VertexX="1056.0" VertexY="284.0"/>
+        </Vertex>
+    </Obstacle>
+    <Obstacle ObstacleID="14" ObstacleType="Polygon">
+        <ObstacleParameter Clockwise="1" IsFinish="True"/>
+        <Vertex VertexNumber="4">
+            <VertexPoint VertexX="1124.0" VertexY="388.0"/>
+            <VertexPoint VertexX="1127.0" VertexY="335.0"/>
+            <VertexPoint VertexX="1299.0" VertexY="340.0"/>
+            <VertexPoint VertexX="1293.0" VertexY="379.0"/>
+        </Vertex>
+    </Obstacle>
+    <Obstacle ObstacleID="15" ObstacleType="Polygon">
+        <ObstacleParameter Clockwise="1" IsFinish="True"/>
+        <Vertex VertexNumber="4">
+            <VertexPoint VertexX="1130.0" VertexY="281.0"/>
+            <VertexPoint VertexX="1133.0" VertexY="220.0"/>
+            <VertexPoint VertexX="1288.0" VertexY="233.0"/>
+            <VertexPoint VertexX="1291.0" VertexY="273.0"/>
+        </Vertex>
+    </Obstacle>
+    <Obstacle ObstacleID="1" ObstacleType="Circle">
+        <ObstacleParameter PointX="387.0" PointY="618.0" Radius="24.839484696748443"/>
+    </Obstacle>
+    <Obstacle ObstacleID="1" ObstacleType="Circle">
+        <ObstacleParameter PointX="1024.0" PointY="612.0" Radius="21.633307652783937"/>
+    </Obstacle>
+</Root>
